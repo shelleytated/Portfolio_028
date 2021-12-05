@@ -11,7 +11,7 @@ Technology Used: HTML, CSS & Bootsrap only
 Tools used: VSCode studio, Google chrome
 
 Hosting: Using github
-Link: https://github.com/shelleytated/Portfolio_028
+Link: https://shelleytated.github.io/Portfolio_028/
 
 <html> tag contains two sections:
 
